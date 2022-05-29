@@ -6,7 +6,7 @@ description: >-
   Dealog - Daily Log By Dea Afrizal
 lang: id-ID
 timezone:  Asia/Jakarta
-repo: https://dealog.github.io # site repo [optional]
+repo: https://deaaprizal.github.io/log # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
 discus-identifier:  XXX
