@@ -1,0 +1,40 @@
+I"�
+<p>Bro ini gue coba post test pertama pake untuk bikin static blog pribadi, tetep ngoding juga kok dikit-dikit. lebih tepatnya kek macem config ajasiii…
+dealog ini bakal gue jadikan sebagai <em>cuitan</em> personal pengganti <a href="https://twitter.com">twitter</a>.</p>
+
+<p>mari kita test highlighting dikit di postingan ini:</p>
+
+<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="cp">#include &lt;stdio.h&gt;
+</span>
+<span class="c1">//Function declarations</span>
+<span class="kt">int</span> <span class="nf">is_prime</span><span class="p">(</span><span class="kt">int</span> <span class="n">n</span><span class="p">);</span>
+<span class="kt">void</span> <span class="nf">goldbach</span><span class="p">(</span><span class="kt">int</span> <span class="n">g</span><span class="p">);</span>
+
+<span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
+	<span class="kt">int</span> <span class="n">number</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+	<span class="k">while</span><span class="p">(</span><span class="mi">1</span><span class="p">){</span>
+		<span class="n">printf</span><span class="p">(</span><span class="s">"Enter even number:"</span><span class="p">);</span>
+		<span class="n">scanf</span><span class="p">(</span><span class="s">"%d"</span><span class="p">,</span><span class="o">&amp;</span><span class="n">number</span><span class="p">);</span>
+		<span class="k">if</span><span class="p">(</span><span class="n">number</span><span class="o">&gt;</span><span class="mi">2</span> <span class="o">&amp;&amp;</span> <span class="n">number</span><span class="o">%</span><span class="mi">2</span><span class="o">==</span><span class="mi">0</span><span class="p">){</span>
+			<span class="n">goldbach</span><span class="p">(</span><span class="n">number</span><span class="p">);</span>
+		<span class="p">}</span>
+		<span class="k">else</span><span class="p">{</span>
+			<span class="n">printf</span><span class="p">(</span><span class="s">"Incorrect number!"</span><span class="p">);</span>
+		<span class="p">}</span>
+		<span class="n">printf</span><span class="p">(</span><span class="s">""</span><span class="p">);</span>
+	<span class="p">}</span>
+	<span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span></code></pre></figure>
+
+<h2 id="apa-yang-bakal-di-update-kedepan">Apa yang bakal di update kedepan?</h2>
+
+<p>mungkin seputaran <strong>eksperimen teknologi</strong> dan juga berbagi keresahan atas apa yang terjadi di hidup gue saat ini.</p>
+
+<p>salam buat orang2 yang udah join membership channel gue 💕
+juga salam buat:</p>
+<ul>
+  <li>mama</li>
+  <li>papa</li>
+  <li>dan adek adek semua 🤣</li>
+</ul>
+:ET
