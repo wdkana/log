@@ -1,10 +1,9 @@
-I"�
-<p>Bro ini gue coba post test pertama pake untuk bikin static blog pribadi, tetep ngoding juga kok dikit-dikit. lebih tepatnya kek macem config ajasiii…
+I"<p>Bro ini gue coba post test pertama pake untuk bikin static blog pribadi, tetep ngoding juga kok dikit-dikit. lebih tepatnya kek macem config ajasiii…
 dealog ini bakal gue jadikan sebagai <em>cuitan</em> personal pengganti <a href="https://twitter.com">twitter</a>.</p>
 
 <p>mari kita test highlighting dikit di postingan ini:</p>
 
-<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="cp">#include &lt;stdio.h&gt;
+<figure class="highlight"><pre><code class="language-c" data-lang="c"><span class="cp">#include</span> <span class="cpf">&lt;stdio.h&gt;</span><span class="cp">
 </span>
 <span class="c1">//Function declarations</span>
 <span class="kt">int</span> <span class="nf">is_prime</span><span class="p">(</span><span class="kt">int</span> <span class="n">n</span><span class="p">);</span>
