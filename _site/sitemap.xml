@@ -9,7 +9,11 @@
 <lastmod>2022-05-29T17:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/daily-log/3</loc>
+<loc>http://localhost:4000/daily/3</loc>
+<lastmod>2022-05-30T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/daily/4</loc>
 <lastmod>2022-05-30T00:00:00+00:00</lastmod>
 </url>
 <url>
