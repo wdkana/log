@@ -1,0 +1,27 @@
+---
+label: withcode
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: author
+  label: author
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+pages:
+- _posts/2022-05-29-lagi-ngulik-sesuatu-di-hari-minggu.md
