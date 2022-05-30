@@ -4,7 +4,7 @@
  <title>Dealog - Daily Log By Dea Afrizal</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-05-30T05:35:19+00:00</updated>
+ <updated>2022-05-30T05:59:24+00:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Dea Afrizal</name>
@@ -13,10 +13,23 @@
 
  
  <entry>
-   <title>Setup Jekyll Pusing Beut!</title>
-   <link href="http://localhost:4000/daily-log/3"/>
+   <title>Gue cuma testing di konten ini!</title>
+   <link href="http://localhost:4000/daily/4"/>
    <updated>2022-05-30T00:00:00+00:00</updated>
-   <id>http://localhost:4000/daily-log/Daily-Log-3</id>
+   <id>http://localhost:4000/daily/Daily-Log-4</id>
+   <content type="html">&lt;h5 id=&quot;ini-cuma-testing-doang-bro-haha&quot;&gt;INI CUMA TESTING DOANG BRO HAHA&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;testing123&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/div&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Setup Jekyll Pusing Beut!</title>
+   <link href="http://localhost:4000/daily/3"/>
+   <updated>2022-05-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/daily/Daily-Log-3</id>
    <content type="html">&lt;h3 id=&quot;asli-sudah-banget-setup-jekyll&quot;&gt;asli sudah banget setup jekyll&lt;/h3&gt;
 
 &lt;p&gt;&lt;em&gt;error jekyll runner nya lah..&lt;/em&gt;&lt;/p&gt;
@@ -33,7 +46,7 @@
    <title>Lagi ngulik sesuatu di hari minggu</title>
    <link href="http://localhost:4000/daily/2"/>
    <updated>2022-05-29T17:00:00+00:00</updated>
-   <id>http://localhost:4000/daily/lagi-ngulik-sesuatu-di-hari-minggu</id>
+   <id>http://localhost:4000/daily/Daily-Log-2</id>
    <content type="html">&lt;p&gt;Ngulik yang 1 ini lagi asik bro asli dah…&lt;/p&gt;
 
 &lt;p&gt;kenalan sama yang namanya nona jekyll, pandangan pertama yang cukup berkesan 💖&lt;/p&gt;
