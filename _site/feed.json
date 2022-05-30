@@ -17,6 +17,44 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/daily/6",
+            "title": "Lagi Download Unreal Engine 5",
+            "summary": null,
+            "content_text": "UE5 keknya menarik nih bro, gw lagi coba download dan size nya gak kira2… 30GB.bangke emang, tapi kayanya seru beut dahtungguin yaa ntar kita ngontenin...",
+            "content_html": "<p>UE5 keknya menarik nih bro, gw lagi coba download dan size nya gak kira2… 30GB.bangke emang, tapi kayanya seru beut dah</p><figure class=\"highlight\"><pre><code class=\"language-bash\" data-lang=\"bash\">tungguin yaa ntar kita ngontenin...</code></pre></figure>",
+            "url": "http://localhost:4000/daily/6",
+            
+            
+            
+            
+            
+            "date_published": "2022-05-30T00:00:00+00:00",
+            "date_modified": "2022-05-30T00:00:00+00:00",
+            
+                "author": "dea afrizal"
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/daily/5",
+            "title": "Thanks udah nonton videonya loh",
+            "summary": null,
+            "content_text": "makasih lho semuanya udah selalu support gue dengan cara apapun, entah itu subscribe, like ataupun share atau bahkan jadi member di channel youtube gue (yang bisa kalian klik juga di pojok kanan atas web ini).yang udah nonton video JEKYLL, hayu atuh cobain komen dibawah pake DISQUS. tinggal register doang pake gmail juga bisa, terus cobain deh dibawah ngomen2 muncul kagak ya 😁btw, gue lagi download UNREAL ENGINE 5. tungguin yah kita coba kek gimana dia haha",
+            "content_html": "<p>makasih lho semuanya udah selalu support gue dengan cara apapun, entah itu subscribe, like ataupun share atau bahkan jadi member di channel youtube gue (yang bisa kalian klik juga di pojok kanan atas web ini).</p><p>yang udah nonton video JEKYLL, hayu atuh cobain komen dibawah pake DISQUS. tinggal register doang pake gmail juga bisa, terus cobain deh dibawah ngomen2 muncul kagak ya 😁</p><figure class=\"highlight\"><pre><code class=\"language-bash\" data-lang=\"bash\">btw, gue lagi download UNREAL ENGINE 5. tungguin yah kita coba kek gimana dia haha</code></pre></figure>",
+            "url": "http://localhost:4000/daily/5",
+            
+            
+            
+            
+            
+            "date_published": "2022-05-30T00:00:00+00:00",
+            "date_modified": "2022-05-30T00:00:00+00:00",
+            
+                "author": "dea afrizal"
+            
+        },
+    
+        {
             "id": "http://localhost:4000/daily/4",
             "title": "Gue cuma testing di konten ini!",
             "summary": null,

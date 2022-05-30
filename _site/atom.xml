@@ -4,13 +4,38 @@
  <title>Dealog - Daily Log By Dea Afrizal</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-05-30T05:59:24+00:00</updated>
+ <updated>2022-05-30T09:32:31+00:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Dea Afrizal</name>
    <email>dea.afrizal@icloud.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Lagi Download Unreal Engine 5</title>
+   <link href="http://localhost:4000/daily/6"/>
+   <updated>2022-05-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/daily/Daily-Log-6</id>
+   <content type="html">&lt;p&gt;UE5 keknya menarik nih bro, gw lagi coba download dan size nya gak kira2… 30GB.
+bangke emang, tapi kayanya seru beut dah&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;tungguin yaa ntar kita ngontenin...&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Thanks udah nonton videonya loh</title>
+   <link href="http://localhost:4000/daily/5"/>
+   <updated>2022-05-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/daily/Daily-Log-5</id>
+   <content type="html">&lt;p&gt;makasih lho semuanya udah selalu support gue dengan cara apapun, entah itu subscribe, like ataupun share atau bahkan jadi member di channel youtube gue (yang bisa kalian klik juga di pojok kanan atas web ini).&lt;/p&gt;
+
+&lt;p&gt;yang udah nonton video JEKYLL, hayu atuh cobain komen dibawah pake DISQUS. tinggal register doang pake gmail juga bisa, terus cobain deh dibawah ngomen2 muncul kagak ya 😁&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;btw, gue lagi download UNREAL ENGINE 5. tungguin yah kita coba kek gimana dia haha&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Gue cuma testing di konten ini!</title>
