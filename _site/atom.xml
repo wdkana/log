@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Dealog - Daily Log By Dea Afrizal</title>
- <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
- <link href="http://127.0.0.1:4000/"/>
- <updated>2022-05-29T14:03:07+00:00</updated>
- <id>http://127.0.0.1:4000</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-05-30T05:35:19+00:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Dea Afrizal</name>
    <email>dea.afrizal@icloud.com</email>
@@ -13,16 +13,44 @@
 
  
  <entry>
+   <title>Setup Jekyll Pusing Beut!</title>
+   <link href="http://localhost:4000/daily-log/3"/>
+   <updated>2022-05-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/daily-log/Daily-Log-3</id>
+   <content type="html">&lt;h3 id=&quot;asli-sudah-banget-setup-jekyll&quot;&gt;asli sudah banget setup jekyll&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;error jekyll runner nya lah..&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;error bundling nya pula&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;belum gemfile nya juga&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;🤦‍♂️&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lagi ngulik sesuatu di hari minggu</title>
+   <link href="http://localhost:4000/daily/2"/>
+   <updated>2022-05-29T17:00:00+00:00</updated>
+   <id>http://localhost:4000/daily/lagi-ngulik-sesuatu-di-hari-minggu</id>
+   <content type="html">&lt;p&gt;Ngulik yang 1 ini lagi asik bro asli dah…&lt;/p&gt;
+
+&lt;p&gt;kenalan sama yang namanya nona jekyll, pandangan pertama yang cukup berkesan 💖&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Jekyll Gokil!</title>
-   <link href="http://127.0.0.1:4000/daily-log/1"/>
+   <link href="http://localhost:4000/daily/1"/>
    <updated>2022-05-29T00:00:00+00:00</updated>
-   <id>http://127.0.0.1:4000/daily-log/Daily-Log-1</id>
+   <id>http://localhost:4000/daily/Daily-Log-1</id>
    <content type="html">&lt;p&gt;Bro ini gue coba post test pertama pake untuk bikin static blog pribadi, tetep ngoding juga kok dikit-dikit. lebih tepatnya kek macem config ajasiii…
 dealog ini bakal gue jadikan sebagai &lt;em&gt;cuitan&lt;/em&gt; personal pengganti &lt;a href=&quot;https://twitter.com&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;mari kita test highlighting dikit di postingan ini:&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;stdio.h&amp;gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;span class=&quot;cp&quot;&gt;#include&lt;/span&gt; &lt;span class=&quot;cpf&quot;&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;span class=&quot;cp&quot;&gt;
 &lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;//Function declarations&lt;/span&gt;
 &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;is_prime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
