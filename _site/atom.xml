@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Dealog - Daily Log By Dea Afrizal</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
+ <link href="https://log.deaafrizal.com/atom.xml" rel="self"/>
+ <link href="https://log.deaafrizal.com/"/>
  <updated>2023-01-01T20:19:59+07:00</updated>
- <id>http://localhost:4000</id>
+ <id>https://log.deaafrizal.com</id>
  <author>
    <name>Dea Afrizal</name>
    <email>deacode@icloud.com</email>
@@ -14,18 +14,18 @@
  
  <entry>
    <title>Happy New Year 2023</title>
-   <link href="http://localhost:4000/daily/8"/>
+   <link href="https://log.deaafrizal.com/daily/8"/>
    <updated>2023-01-01T07:00:00+07:00</updated>
-   <id>http://localhost:4000/daily/Daily-Log-8</id>
+   <id>https://log.deaafrizal.com/daily/Daily-Log-8</id>
    <content type="html">&lt;p&gt;Selamat tahun baru 2023, terlepas dari &lt;a href=&quot;https://youtube.com/@deaafrizal&quot;&gt;youtube&lt;/a&gt; postingan ini semoga jadi awal baru untuk memulai segalanya lebih baik lagi di tahun 2023.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Kesimpulan EPS 5 Inspeksi Web Sub</title>
-   <link href="http://localhost:4000/daily/7"/>
+   <link href="https://log.deaafrizal.com/daily/7"/>
    <updated>2022-05-30T07:00:00+07:00</updated>
-   <id>http://localhost:4000/daily/Daily-Log-7</id>
+   <id>https://log.deaafrizal.com/daily/Daily-Log-7</id>
    <content type="html">&lt;p&gt;Simple minimalis dan unik akan membuat pengunjung betah…&lt;em&gt;maybe&lt;/em&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;c&quot;&gt;#keepinsecure&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
@@ -34,9 +34,9 @@
  
  <entry>
    <title>Lagi Download Unreal Engine 5</title>
-   <link href="http://localhost:4000/daily/6"/>
+   <link href="https://log.deaafrizal.com/daily/6"/>
    <updated>2022-05-30T07:00:00+07:00</updated>
-   <id>http://localhost:4000/daily/Daily-Log-6</id>
+   <id>https://log.deaafrizal.com/daily/Daily-Log-6</id>
    <content type="html">&lt;p&gt;UE5 keknya menarik nih bro, gw lagi coba download dan size nya gak kira2… 30GB.
 bangke emang, tapi kayanya seru beut dah&lt;/p&gt;
 
@@ -46,9 +46,9 @@ bangke emang, tapi kayanya seru beut dah&lt;/p&gt;
  
  <entry>
    <title>Thanks udah nonton videonya loh</title>
-   <link href="http://localhost:4000/daily/5"/>
+   <link href="https://log.deaafrizal.com/daily/5"/>
    <updated>2022-05-30T07:00:00+07:00</updated>
-   <id>http://localhost:4000/daily/Daily-Log-5</id>
+   <id>https://log.deaafrizal.com/daily/Daily-Log-5</id>
    <content type="html">&lt;p&gt;makasih lho semuanya udah selalu support gue dengan cara apapun, entah itu subscribe, like ataupun share atau bahkan jadi member di channel youtube gue (yang bisa kalian klik juga di pojok kanan atas web ini).&lt;/p&gt;
 
 &lt;p&gt;yang udah nonton video JEKYLL, hayu atuh cobain komen dibawah pake DISQUS. tinggal register doang pake gmail juga bisa, terus cobain deh dibawah ngomen2 muncul kagak ya 😁&lt;/p&gt;
@@ -59,9 +59,9 @@ bangke emang, tapi kayanya seru beut dah&lt;/p&gt;
  
  <entry>
    <title>Gue cuma testing di konten ini!</title>
-   <link href="http://localhost:4000/daily/4"/>
+   <link href="https://log.deaafrizal.com/daily/4"/>
    <updated>2022-05-30T07:00:00+07:00</updated>
-   <id>http://localhost:4000/daily/Daily-Log-4</id>
+   <id>https://log.deaafrizal.com/daily/Daily-Log-4</id>
    <content type="html">&lt;h5 id=&quot;ini-cuma-testing-doang-bro-haha&quot;&gt;INI CUMA TESTING DOANG BRO HAHA&lt;/h5&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
@@ -72,9 +72,9 @@ bangke emang, tapi kayanya seru beut dah&lt;/p&gt;
  
  <entry>
    <title>Setup Jekyll Pusing Beut!</title>
-   <link href="http://localhost:4000/daily/3"/>
+   <link href="https://log.deaafrizal.com/daily/3"/>
    <updated>2022-05-30T07:00:00+07:00</updated>
-   <id>http://localhost:4000/daily/Daily-Log-3</id>
+   <id>https://log.deaafrizal.com/daily/Daily-Log-3</id>
    <content type="html">&lt;h3 id=&quot;asli-sudah-banget-setup-jekyll&quot;&gt;asli sudah banget setup jekyll&lt;/h3&gt;
 
 &lt;p&gt;&lt;em&gt;error jekyll runner nya lah..&lt;/em&gt;&lt;/p&gt;
@@ -89,9 +89,9 @@ bangke emang, tapi kayanya seru beut dah&lt;/p&gt;
  
  <entry>
    <title>Lagi ngulik sesuatu di hari minggu</title>
-   <link href="http://localhost:4000/daily/2"/>
+   <link href="https://log.deaafrizal.com/daily/2"/>
    <updated>2022-05-30T00:00:00+07:00</updated>
-   <id>http://localhost:4000/daily/Daily-Log-2</id>
+   <id>https://log.deaafrizal.com/daily/Daily-Log-2</id>
    <content type="html">&lt;p&gt;Ngulik yang 1 ini lagi asik bro asli dah…&lt;/p&gt;
 
 &lt;p&gt;kenalan sama yang namanya nona jekyll, pandangan pertama yang cukup berkesan 💖&lt;/p&gt;
@@ -100,9 +100,9 @@ bangke emang, tapi kayanya seru beut dah&lt;/p&gt;
  
  <entry>
    <title>Jekyll Gokil!</title>
-   <link href="http://localhost:4000/daily/1"/>
+   <link href="https://log.deaafrizal.com/daily/1"/>
    <updated>2022-05-29T07:00:00+07:00</updated>
-   <id>http://localhost:4000/daily/Daily-Log-1</id>
+   <id>https://log.deaafrizal.com/daily/Daily-Log-1</id>
    <content type="html">&lt;p&gt;Bro ini gue coba post test pertama pake untuk bikin static blog pribadi, tetep ngoding juga kok dikit-dikit. lebih tepatnya kek macem config ajasiii…
 dealog ini bakal gue jadikan sebagai &lt;em&gt;cuitan&lt;/em&gt; personal pengganti &lt;a href=&quot;https://twitter.com&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
 
