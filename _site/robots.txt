@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://log.deaafrizal.com/sitemap.xml
+Sitemap: https://deaaprizal.github.io/log//sitemap.xml
