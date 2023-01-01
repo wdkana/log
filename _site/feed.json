@@ -17,6 +17,44 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/daily/8",
+            "title": "Happy New Year 2023",
+            "summary": null,
+            "content_text": "Selamat tahun baru 2023, terlepas dari youtube postingan ini semoga jadi awal baru untuk memulai segalanya lebih baik lagi di tahun 2023.",
+            "content_html": "<p>Selamat tahun baru 2023, terlepas dari <a href=\"https://youtube.com/@deaafrizal\">youtube</a> postingan ini semoga jadi awal baru untuk memulai segalanya lebih baik lagi di tahun 2023.</p>",
+            "url": "http://localhost:4000/daily/8",
+            
+            
+            
+            
+            
+            "date_published": "2023-01-01T07:00:00+07:00",
+            "date_modified": "2023-01-01T07:00:00+07:00",
+            
+                "author": "dea afrizal"
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/daily/7",
+            "title": "Kesimpulan EPS 5 Inspeksi Web Sub",
+            "summary": null,
+            "content_text": "Simple minimalis dan unik akan membuat pengunjung betah…maybe#keepinsecure",
+            "content_html": "<p>Simple minimalis dan unik akan membuat pengunjung betah…<em>maybe</em></p><figure class=\"highlight\"><pre><code class=\"language-bash\" data-lang=\"bash\"><span class=\"c\">#keepinsecure</span></code></pre></figure>",
+            "url": "http://localhost:4000/daily/7",
+            
+            
+            
+            
+            
+            "date_published": "2022-05-30T07:00:00+07:00",
+            "date_modified": "2022-05-30T07:00:00+07:00",
+            
+                "author": "dea afrizal"
+            
+        },
+    
+        {
             "id": "http://localhost:4000/daily/6",
             "title": "Lagi Download Unreal Engine 5",
             "summary": null,
@@ -28,8 +66,8 @@
             
             
             
-            "date_published": "2022-05-30T00:00:00+00:00",
-            "date_modified": "2022-05-30T00:00:00+00:00",
+            "date_published": "2022-05-30T07:00:00+07:00",
+            "date_modified": "2022-05-30T07:00:00+07:00",
             
                 "author": "dea afrizal"
             
@@ -47,8 +85,8 @@
             
             
             
-            "date_published": "2022-05-30T00:00:00+00:00",
-            "date_modified": "2022-05-30T00:00:00+00:00",
+            "date_published": "2022-05-30T07:00:00+07:00",
+            "date_modified": "2022-05-30T07:00:00+07:00",
             
                 "author": "dea afrizal"
             
@@ -66,8 +104,8 @@
             
             "tags": ["website","jekyll"],
             
-            "date_published": "2022-05-30T00:00:00+00:00",
-            "date_modified": "2022-05-30T00:00:00+00:00",
+            "date_published": "2022-05-30T07:00:00+07:00",
+            "date_modified": "2022-05-30T07:00:00+07:00",
             
                 "author": "dea afrizal"
             
@@ -85,8 +123,8 @@
             
             "tags": ["website","jekyll"],
             
-            "date_published": "2022-05-30T00:00:00+00:00",
-            "date_modified": "2022-05-30T00:00:00+00:00",
+            "date_published": "2022-05-30T07:00:00+07:00",
+            "date_modified": "2022-05-30T07:00:00+07:00",
             
                 "author": "dea afrizal"
             
@@ -104,8 +142,8 @@
             
             
             
-            "date_published": "2022-05-29T17:00:00+00:00",
-            "date_modified": "2022-05-29T17:00:00+00:00",
+            "date_published": "2022-05-30T00:00:00+07:00",
+            "date_modified": "2022-05-30T00:00:00+07:00",
             
                 "author": "dea afrizal"
             
@@ -123,8 +161,8 @@
             
             "tags": ["website","jekyll"],
             
-            "date_published": "2022-05-29T00:00:00+00:00",
-            "date_modified": "2022-05-29T00:00:00+00:00",
+            "date_published": "2022-05-29T07:00:00+07:00",
+            "date_modified": "2022-05-29T07:00:00+07:00",
             
                 "author": "dea afrizal"
             

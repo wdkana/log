@@ -5,25 +5,24 @@ keywords: dea afrizal, dealog
 description: >-
   Dealog - Daily Log By Dea Afrizal
 lang: id-ID
-timezone:  Asia/Jakarta
+timezone: Asia/Jakarta
 repo: https://deaaprizal.github.io/log # site repo [optional]
-google_verify:      XXX # Put your Google Verification here
-google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
-discus-identifier:  XXX
+google_verify: XXX # Put your Google Verification here
+google_analytics: UA-XXXXXXXX-00 # Put your Google Analytics code
+discus-identifier: XXX
 
 # Author settings
 author:
   name: Dea Afrizal
   bio: Tech Influencer <br> Ngoding Dulu, Jagonya Belakangan
-  picture: assets/images/dealog.png 
+  picture: assets/images/dealog.png
   github: deaaprizal # github username
-  twitter:  # twitter username
-  facebook:  # facebook username
+  twitter: # twitter username
+  facebook: # facebook username
   instagram: dea.afrizal # instagram username
-  youtube: https://www.youtube.com/deaafrizal # youtube username
-  linkedin:  # linkedin username
-  email: dea.afrizal@icloud.com # email adress
-
+  youtube: https://youtube.com/@deaafrizal # youtube username
+  linkedin: # linkedin username
+  email: deacode@icloud.com # email adress
 
 # URL settings
 url: "https://deaaprizal.github.io/log/" # Domain Name of host. [username].github.io for github pages
@@ -33,7 +32,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
 
 exclude:
   - .jekyll-cache
@@ -57,27 +55,24 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:slug
-  
+    permalink: /:path
+
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
 
 relative_links:
-  enabled:     true
+  enabled: true
   collections: false
