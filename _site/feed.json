@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Dealog - Daily Log By Dea Afrizal",
-    "home_page_url": "https://deaaprizal.github.io/log//",
-    "feed_url": "https://deaaprizal.github.io/log//feed.json",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
     "description": "Dealog - Daily Log By Dea Afrizal",
-    "icon": "https://deaaprizal.github.io/log//assets/images/apple-touch-icon.png",
-    "favicon": "https://deaaprizal.github.io/log//assets/images/favicon.png",
+    "icon": "http://localhost:4000/assets/images/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/assets/images/favicon.png",
     "expired": false,
     
     "author":  {
@@ -17,12 +17,12 @@
 "items": [
     
         {
-            "id": "https://deaaprizal.github.io/log//daily/8",
+            "id": "http://localhost:4000/daily/8",
             "title": "Happy New Year 2023",
             "summary": null,
             "content_text": "Selamat tahun baru 2023, terlepas dari youtube postingan ini semoga jadi awal baru untuk memulai segalanya lebih baik lagi di tahun 2023.",
             "content_html": "<p>Selamat tahun baru 2023, terlepas dari <a href=\"https://youtube.com/@deaafrizal\">youtube</a> postingan ini semoga jadi awal baru untuk memulai segalanya lebih baik lagi di tahun 2023.</p>",
-            "url": "https://deaaprizal.github.io/log//daily/8",
+            "url": "http://localhost:4000/daily/8",
             
             
             
@@ -36,12 +36,12 @@
         },
     
         {
-            "id": "https://deaaprizal.github.io/log//daily/7",
+            "id": "http://localhost:4000/daily/7",
             "title": "Kesimpulan EPS 5 Inspeksi Web Sub",
             "summary": null,
             "content_text": "Simple minimalis dan unik akan membuat pengunjung betah…maybe#keepinsecure",
             "content_html": "<p>Simple minimalis dan unik akan membuat pengunjung betah…<em>maybe</em></p><figure class=\"highlight\"><pre><code class=\"language-bash\" data-lang=\"bash\"><span class=\"c\">#keepinsecure</span></code></pre></figure>",
-            "url": "https://deaaprizal.github.io/log//daily/7",
+            "url": "http://localhost:4000/daily/7",
             
             
             
@@ -55,12 +55,12 @@
         },
     
         {
-            "id": "https://deaaprizal.github.io/log//daily/6",
+            "id": "http://localhost:4000/daily/6",
             "title": "Lagi Download Unreal Engine 5",
             "summary": null,
             "content_text": "UE5 keknya menarik nih bro, gw lagi coba download dan size nya gak kira2… 30GB.bangke emang, tapi kayanya seru beut dahtungguin yaa ntar kita ngontenin...",
             "content_html": "<p>UE5 keknya menarik nih bro, gw lagi coba download dan size nya gak kira2… 30GB.bangke emang, tapi kayanya seru beut dah</p><figure class=\"highlight\"><pre><code class=\"language-bash\" data-lang=\"bash\">tungguin yaa ntar kita ngontenin...</code></pre></figure>",
-            "url": "https://deaaprizal.github.io/log//daily/6",
+            "url": "http://localhost:4000/daily/6",
             
             
             
@@ -74,12 +74,12 @@
         },
     
         {
-            "id": "https://deaaprizal.github.io/log//daily/5",
+            "id": "http://localhost:4000/daily/5",
             "title": "Thanks udah nonton videonya loh",
             "summary": null,
             "content_text": "makasih lho semuanya udah selalu support gue dengan cara apapun, entah itu subscribe, like ataupun share atau bahkan jadi member di channel youtube gue (yang bisa kalian klik juga di pojok kanan atas web ini).yang udah nonton video JEKYLL, hayu atuh cobain komen dibawah pake DISQUS. tinggal register doang pake gmail juga bisa, terus cobain deh dibawah ngomen2 muncul kagak ya 😁btw, gue lagi download UNREAL ENGINE 5. tungguin yah kita coba kek gimana dia haha",
             "content_html": "<p>makasih lho semuanya udah selalu support gue dengan cara apapun, entah itu subscribe, like ataupun share atau bahkan jadi member di channel youtube gue (yang bisa kalian klik juga di pojok kanan atas web ini).</p><p>yang udah nonton video JEKYLL, hayu atuh cobain komen dibawah pake DISQUS. tinggal register doang pake gmail juga bisa, terus cobain deh dibawah ngomen2 muncul kagak ya 😁</p><figure class=\"highlight\"><pre><code class=\"language-bash\" data-lang=\"bash\">btw, gue lagi download UNREAL ENGINE 5. tungguin yah kita coba kek gimana dia haha</code></pre></figure>",
-            "url": "https://deaaprizal.github.io/log//daily/5",
+            "url": "http://localhost:4000/daily/5",
             
             
             
@@ -93,12 +93,12 @@
         },
     
         {
-            "id": "https://deaaprizal.github.io/log//daily/4",
+            "id": "http://localhost:4000/daily/4",
             "title": "Gue cuma testing di konten ini!",
             "summary": null,
             "content_text": "INI CUMA TESTING DOANG BRO HAHAconst data = () =&gt; {  return &lt;div&gt;testing123&lt;/div&gt;}",
             "content_html": "<h5 id=\"ini-cuma-testing-doang-bro-haha\">INI CUMA TESTING DOANG BRO HAHA</h5><figure class=\"highlight\"><pre><code class=\"language-javascript\" data-lang=\"javascript\"><span class=\"kd\">const</span> <span class=\"nx\">data</span> <span class=\"o\">=</span> <span class=\"p\">()</span> <span class=\"o\">=&gt;</span> <span class=\"p\">{</span>  <span class=\"k\">return</span> <span class=\"o\">&lt;</span><span class=\"nx\">div</span><span class=\"o\">&gt;</span><span class=\"nx\">testing123</span><span class=\"o\">&lt;</span><span class=\"sr\">/div</span><span class=\"err\">&gt;</span><span class=\"p\">}</span></code></pre></figure>",
-            "url": "https://deaaprizal.github.io/log//daily/4",
+            "url": "http://localhost:4000/daily/4",
             
             
             
@@ -112,12 +112,12 @@
         },
     
         {
-            "id": "https://deaaprizal.github.io/log//daily/3",
+            "id": "http://localhost:4000/daily/3",
             "title": "Setup Jekyll Pusing Beut!",
             "summary": null,
             "content_text": "asli sudah banget setup jekyllerror jekyll runner nya lah..error bundling nya pulabelum gemfile nya juga🤦‍♂️",
             "content_html": "<h3 id=\"asli-sudah-banget-setup-jekyll\">asli sudah banget setup jekyll</h3><p><em>error jekyll runner nya lah..</em></p><p><em>error bundling nya pula</em></p><p><em>belum gemfile nya juga</em></p><p>🤦‍♂️</p>",
-            "url": "https://deaaprizal.github.io/log//daily/3",
+            "url": "http://localhost:4000/daily/3",
             
             
             
@@ -131,12 +131,12 @@
         },
     
         {
-            "id": "https://deaaprizal.github.io/log//daily/2",
+            "id": "http://localhost:4000/daily/2",
             "title": "Lagi ngulik sesuatu di hari minggu",
             "summary": null,
             "content_text": "Ngulik yang 1 ini lagi asik bro asli dah…kenalan sama yang namanya nona jekyll, pandangan pertama yang cukup berkesan 💖",
             "content_html": "<p>Ngulik yang 1 ini lagi asik bro asli dah…</p><p>kenalan sama yang namanya nona jekyll, pandangan pertama yang cukup berkesan 💖</p>",
-            "url": "https://deaaprizal.github.io/log//daily/2",
+            "url": "http://localhost:4000/daily/2",
             
             
             
@@ -150,12 +150,12 @@
         },
     
         {
-            "id": "https://deaaprizal.github.io/log//daily/1",
+            "id": "http://localhost:4000/daily/1",
             "title": "Jekyll Gokil!",
             "summary": null,
             "content_text": "Bro ini gue coba post test pertama pake untuk bikin static blog pribadi, tetep ngoding juga kok dikit-dikit. lebih tepatnya kek macem config ajasiii…dealog ini bakal gue jadikan sebagai cuitan personal pengganti twitter.mari kita test highlighting dikit di postingan ini:#include &lt;stdio.h&gt;//Function declarationsint is_prime(int n);void goldbach(int g);int main(){\tint number = 0;\twhile(1){\t\tprintf(\"Enter even number:\");\t\tscanf(\"%d\",&amp;number);\t\tif(number&gt;2 &amp;&amp; number%2==0){\t\t\tgoldbach(number);\t\t}\t\telse{\t\t\tprintf(\"Incorrect number!\");\t\t}\t\tprintf(\"\");\t}\treturn 0;}Apa yang bakal di update kedepan?mungkin seputaran eksperimen teknologi dan juga berbagi keresahan atas apa yang terjadi di hidup gue saat ini.salam buat orang2 yang udah join membership channel gue 💕juga salam buat:  mama  papa  dan adek adek semua 🤣",
             "content_html": "<p>Bro ini gue coba post test pertama pake untuk bikin static blog pribadi, tetep ngoding juga kok dikit-dikit. lebih tepatnya kek macem config ajasiii…dealog ini bakal gue jadikan sebagai <em>cuitan</em> personal pengganti <a href=\"https://twitter.com\">twitter</a>.</p><p>mari kita test highlighting dikit di postingan ini:</p><figure class=\"highlight\"><pre><code class=\"language-c\" data-lang=\"c\"><span class=\"cp\">#include</span> <span class=\"cpf\">&lt;stdio.h&gt;</span><span class=\"cp\"></span><span class=\"c1\">//Function declarations</span><span class=\"kt\">int</span> <span class=\"nf\">is_prime</span><span class=\"p\">(</span><span class=\"kt\">int</span> <span class=\"n\">n</span><span class=\"p\">);</span><span class=\"kt\">void</span> <span class=\"nf\">goldbach</span><span class=\"p\">(</span><span class=\"kt\">int</span> <span class=\"n\">g</span><span class=\"p\">);</span><span class=\"kt\">int</span> <span class=\"nf\">main</span><span class=\"p\">(){</span>\t<span class=\"kt\">int</span> <span class=\"n\">number</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span>\t<span class=\"k\">while</span><span class=\"p\">(</span><span class=\"mi\">1</span><span class=\"p\">){</span>\t\t<span class=\"n\">printf</span><span class=\"p\">(</span><span class=\"s\">\"Enter even number:\"</span><span class=\"p\">);</span>\t\t<span class=\"n\">scanf</span><span class=\"p\">(</span><span class=\"s\">\"%d\"</span><span class=\"p\">,</span><span class=\"o\">&amp;</span><span class=\"n\">number</span><span class=\"p\">);</span>\t\t<span class=\"k\">if</span><span class=\"p\">(</span><span class=\"n\">number</span><span class=\"o\">&gt;</span><span class=\"mi\">2</span> <span class=\"o\">&amp;&amp;</span> <span class=\"n\">number</span><span class=\"o\">%</span><span class=\"mi\">2</span><span class=\"o\">==</span><span class=\"mi\">0</span><span class=\"p\">){</span>\t\t\t<span class=\"n\">goldbach</span><span class=\"p\">(</span><span class=\"n\">number</span><span class=\"p\">);</span>\t\t<span class=\"p\">}</span>\t\t<span class=\"k\">else</span><span class=\"p\">{</span>\t\t\t<span class=\"n\">printf</span><span class=\"p\">(</span><span class=\"s\">\"Incorrect number!\"</span><span class=\"p\">);</span>\t\t<span class=\"p\">}</span>\t\t<span class=\"n\">printf</span><span class=\"p\">(</span><span class=\"s\">\"\"</span><span class=\"p\">);</span>\t<span class=\"p\">}</span>\t<span class=\"k\">return</span> <span class=\"mi\">0</span><span class=\"p\">;</span><span class=\"p\">}</span></code></pre></figure><h2 id=\"apa-yang-bakal-di-update-kedepan\">Apa yang bakal di update kedepan?</h2><p>mungkin seputaran <strong>eksperimen teknologi</strong> dan juga berbagi keresahan atas apa yang terjadi di hidup gue saat ini.</p><p>salam buat orang2 yang udah join membership channel gue 💕juga salam buat:</p><ul>  <li>mama</li>  <li>papa</li>  <li>dan adek adek semua 🤣</li></ul>",
-            "url": "https://deaaprizal.github.io/log//daily/1",
+            "url": "http://localhost:4000/daily/1",
             
             
             
