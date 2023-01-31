@@ -1,9 +1,9 @@
 # Site settings
-site: Dealog
-title: Dealog - Daily Log By Dea Afrizal
-keywords: dea afrizal, dealog
+site: Dea Afrizal Blog
+title: Dea Afrizal Programmer Youtuber Blog
+keywords: dea afrizal, dea afrizal blog, blog programmer, artikel programmer, web developer indonesia, youtuber programmer indonesia
 description: >-
-  Dealog - Daily Log By Dea Afrizal
+  Dea Afrizal Blog
 lang: id-ID
 timezone: Asia/Jakarta
 repo: https://blog.deaafrizal.com/ # site repo [optional]
@@ -14,7 +14,7 @@ discus-identifier: XXX
 # Author settings
 author:
   name: Dea Afrizal
-  bio: Tech Influencer <br> Ngoding Dulu, Jagonya Belakangan
+  bio: Tech Enthusiast - Coba Dulu, Jagonya Belakangan
   picture: assets/images/dealog.png
   github: deaaprizal # github username
   twitter: # twitter username
