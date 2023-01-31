@@ -1,12 +1,12 @@
 # Site settings
-site: Dealog
-title: Dealog - Daily Log By Dea Afrizal
-keywords: dea afrizal, dealog
+site: Dea Afrizal Blog
+title: Dea Afrizal Programmer Youtuber Blog
+keywords: dea afrizal, dea afrizal blog, blog programmer, artikel programmer, web developer indonesia, youtuber programmer indonesia
 description: >-
-  Dealog - Daily Log By Dea Afrizal
+  Dea Afrizal Blog
 lang: id-ID
 timezone: Asia/Jakarta
-repo: https://deaaprizal.github.io/log # site repo [optional]
+repo: https://blog.deaafrizal.com/ # site repo [optional]
 google_verify: XXX # Put your Google Verification here
 google_analytics: UA-XXXXXXXX-00 # Put your Google Analytics code
 discus-identifier: XXX
@@ -14,7 +14,7 @@ discus-identifier: XXX
 # Author settings
 author:
   name: Dea Afrizal
-  bio: Tech Influencer <br> Ngoding Dulu, Jagonya Belakangan
+  bio: Tech Enthusiast - Coba Dulu, Jagonya Belakangan
   picture: assets/images/dealog.png
   github: deaaprizal # github username
   twitter: # twitter username
@@ -25,7 +25,7 @@ author:
   email: deacode@icloud.com # email adress
 
 # URL settings
-url: "https://deaaprizal.github.io/log/" # Domain Name of host. [username].github.io for github pages
+url: "https://blog.deaafrizal.com/" # Domain Name of host. [username].github.io for github pages
 permalink: pretty
 
 markdown: kramdown
