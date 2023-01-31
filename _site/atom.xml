@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Dealog - Daily Log By Dea Afrizal</title>
+ <title>Dea Afrizal Programmer Youtuber Blog</title>
  <link href="https://blog.deaafrizal.com//atom.xml" rel="self"/>
  <link href="https://blog.deaafrizal.com//"/>
- <updated>2023-01-31T12:51:08+07:00</updated>
+ <updated>2023-02-01T01:50:55+07:00</updated>
  <id>https://blog.deaafrizal.com/</id>
  <author>
    <name>Dea Afrizal</name>
    <email>deacode@icloud.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Apa yang harus gue lakukan dengan ini?</title>
+   <link href="https://blog.deaafrizal.com//daily/9"/>
+   <updated>2023-01-01T07:00:00+07:00</updated>
+   <id>https://blog.deaafrizal.com//daily/Daily-Log-9</id>
+   <content type="html">&lt;p&gt;Udah lama banget gak update ini blog, moga gue bisa konsisten lagi minimal 3 hari 1x dah upload postingan keseharian gue disini.
+sebenernya ini tempat semi privat sih, gue pengen nulis sesuatu tapi gak pengen banyak orang tahu. Cuma kalau sekedar ditulis di buku harian kan kaya kurang aja gitu.&lt;/p&gt;
+
+&lt;p&gt;Biarlah kali aja orang yang membaca postingan gue disini bisa ambil suatu hal positif.&lt;/p&gt;
+
+&lt;p&gt;Mungkin kedepannya ada puisi, ada narasi, ada demokrasi yang bakalan gue taruh disini.&lt;/p&gt;
+
+&lt;p&gt;Ya kita liat aja nanti gimana okeh. Gue harep sih ini bisa jadi dokumentasi kehidupan gue yang sifatnya naratif dan tertulis. 🌹&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Happy New Year 2023</title>

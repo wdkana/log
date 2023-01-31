@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Dealog - Daily Log By Dea Afrizal",
+    "title": "Dea Afrizal Programmer Youtuber Blog",
     "home_page_url": "https://blog.deaafrizal.com//",
     "feed_url": "https://blog.deaafrizal.com//feed.json",
-    "description": "Dealog - Daily Log By Dea Afrizal",
+    "description": "Dea Afrizal Blog",
     "icon": "https://blog.deaafrizal.com//assets/images/apple-touch-icon.png",
     "favicon": "https://blog.deaafrizal.com//assets/images/favicon.png",
     "expired": false,
@@ -15,6 +15,25 @@
     },
     
 "items": [
+    
+        {
+            "id": "https://blog.deaafrizal.com//daily/9",
+            "title": "Apa yang harus gue lakukan dengan ini?",
+            "summary": null,
+            "content_text": "Udah lama banget gak update ini blog, moga gue bisa konsisten lagi minimal 3 hari 1x dah upload postingan keseharian gue disini.sebenernya ini tempat semi privat sih, gue pengen nulis sesuatu tapi gak pengen banyak orang tahu. Cuma kalau sekedar ditulis di buku harian kan kaya kurang aja gitu.Biarlah kali aja orang yang membaca postingan gue disini bisa ambil suatu hal positif.Mungkin kedepannya ada puisi, ada narasi, ada demokrasi yang bakalan gue taruh disini.Ya kita liat aja nanti gimana okeh. Gue harep sih ini bisa jadi dokumentasi kehidupan gue yang sifatnya naratif dan tertulis. 🌹",
+            "content_html": "<p>Udah lama banget gak update ini blog, moga gue bisa konsisten lagi minimal 3 hari 1x dah upload postingan keseharian gue disini.sebenernya ini tempat semi privat sih, gue pengen nulis sesuatu tapi gak pengen banyak orang tahu. Cuma kalau sekedar ditulis di buku harian kan kaya kurang aja gitu.</p><p>Biarlah kali aja orang yang membaca postingan gue disini bisa ambil suatu hal positif.</p><p>Mungkin kedepannya ada puisi, ada narasi, ada demokrasi yang bakalan gue taruh disini.</p><p>Ya kita liat aja nanti gimana okeh. Gue harep sih ini bisa jadi dokumentasi kehidupan gue yang sifatnya naratif dan tertulis. 🌹</p>",
+            "url": "https://blog.deaafrizal.com//daily/9",
+            
+            
+            
+            
+            
+            "date_published": "2023-01-01T07:00:00+07:00",
+            "date_modified": "2023-01-01T07:00:00+07:00",
+            
+                "author": "dea afrizal"
+            
+        },
     
         {
             "id": "https://blog.deaafrizal.com//daily/8",
