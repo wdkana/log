@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Dealog - Daily Log By Dea Afrizal",
+    "title": "Dea Afrizal Programmer Youtuber Blog",
     "home_page_url": "https://blog.deaafrizal.com//",
     "feed_url": "https://blog.deaafrizal.com//feed.json",
-    "description": "Dealog - Daily Log By Dea Afrizal",
+    "description": "Dea Afrizal Blog",
     "icon": "https://blog.deaafrizal.com//assets/images/apple-touch-icon.png",
     "favicon": "https://blog.deaafrizal.com//assets/images/favicon.png",
     "expired": false,

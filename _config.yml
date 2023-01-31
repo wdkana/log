@@ -8,7 +8,7 @@ lang: id-ID
 timezone: Asia/Jakarta
 repo: https://blog.deaafrizal.com/ # site repo [optional]
 google_verify: XXX # Put your Google Verification here
-google_analytics: UA-XXXXXXXX-00 # Put your Google Analytics code
+google_analytics: 35484031 # Put your Google Analytics code
 discus-identifier: XXX
 
 # Author settings

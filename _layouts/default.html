@@ -1,39 +1,60 @@
 {% include header.html %}
 <div class="container">
-	<div class="profile">
-		<a href="{{ site.url }}"><img src="{{site.author.picture}}" class="profile-image"></a>
-		<div class="profile-about">
-			<h2 style="margin-bottom: 0; font-weight: 700;">{{site.author.name}}</h2>
-			{% if site.author.facebook %}
-				<a href="https://facebook.com/{{site.author.facebook}}" target="_blank"><img src="assets/images/icon/facebook.svg" class="social-icon"></a>
-			{% endif %}
-			{% if site.author.twitter %}
-				<a href="https://twitter.com/{{site.author.twitter}}" target="_blank"><img src="assets/images/icon/twitter.svg" class="social-icon"></a>
-			{% endif %}
-			{% if site.author.instagram %}
-				<a href="https://instagram.com/{{site.author.instagram}}" target="_blank"><img src="assets/images/icon/instagram.svg" class="social-icon"></a>
-			{% endif %}
-			{% if site.author.youtube %}
-				<a href="{{site.author.youtube}}" target="_blank"><img src="assets/images/icon/youtube.svg" class="social-icon"></a>
-			{% endif %}
-			{% if site.author.github %}
-				<a href="https://github.com/{{site.author.github}}" target="_blank"><img src="assets/images/icon/github.svg" class="social-icon"></a>
-			{% endif %}
-			{% if site.author.linkedin %}
-				<a href="https://linkedin.com/in/{{site.author.linkedin}}" target="_blank"><img src="assets/images/icon/linkedin.svg" class="social-icon"></a>
-			{% endif %}
-			<a href="about"><img src="assets/images/icon/me.svg" class="social-icon"></a>
-			<br>
-			{{ site.author.bio }}
-			<br>
-			<div class="mode" id="mode-switcher" onclick="toggleNightMode();">
-				<span></span>
-			</div>
-		</div>
-	</div>
-	{{ content }}
-	<div class="footer">
-		<span>Made with <font color="red">♥</font> from tech influencer <a href="https://github.com/deaaprizal"><b>deaafrizal</b></a></span>
-	</div>
+  <div style="margin: 0 auto; padding: 0; height: 80px; z-index: 9;">
+    <a href="https://deaafrizal.com">
+      <img src="{{site.author.picture}}" class="profile-image" />
+    </a>
+  </div>
+  <div class="profile">
+    <a href="{{site.url}}">Home</a>
+    <div class="profile-about">
+      {% if site.author.facebook %}
+      <a href="https://facebook.com/{{site.author.facebook}}" target="_blank">
+        <img src="assets/images/icon/facebook.svg" class="social-icon" />
+      </a>
+      {% endif %} {% if site.author.twitter %}
+      <a href="https://twitter.com/{{site.author.twitter}}" target="_blank">
+        <img src="assets/images/icon/twitter.svg" class="social-icon" />
+      </a>
+      {% endif %} {% if site.author.instagram %}
+      <a href="https://instagram.com/{{site.author.instagram}}" target="_blank">
+        <img src="assets/images/icon/instagram.svg" class="social-icon" />
+      </a>
+      {% endif %} {% if site.author.youtube %}
+      <a href="{{site.author.youtube}}" target="_blank">
+        <img src="assets/images/icon/youtube.svg" class="social-icon" />
+      </a>
+      {% endif %} {% if site.author.github %}
+      <a href="https://github.com/{{site.author.github}}" target="_blank">
+        <img src="assets/images/icon/github.svg" class="social-icon" />
+      </a>
+      {% endif %} {% if site.author.linkedin %}
+      <a
+        href="https://linkedin.com/in/{{site.author.linkedin}}"
+        target="_blank"
+      >
+        <img src="assets/images/icon/linkedin.svg" class="social-icon" />
+      </a>
+      {% endif %}
+      <a href="about">
+        <img src="assets/images/icon/me.svg" class="social-icon" />
+      </a>
+      <br />
+      {{ site.author.bio }}
+      <br />
+      <div class="mode" id="mode-switcher" onclick="toggleNightMode();">
+        <span></span>
+      </div>
+    </div>
+  </div>
+  {{ content }}
+  <div class="footer">
+    <span>
+      Made with
+      <font color="red">♥</font>
+      from tech influencer
+      <a href="https://github.com/deaaprizal"><b>deaafrizal</b></a>
+    </span>
+  </div>
 </div>
 {% include footer.html %}
